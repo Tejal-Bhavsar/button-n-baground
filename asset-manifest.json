@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/button-bag/static/css/main.f66fa6dd.chunk.css",
+    "main.js": "/button-bag/static/js/main.f4fce428.chunk.js",
+    "main.js.map": "/button-bag/static/js/main.f4fce428.chunk.js.map",
+    "runtime-main.js": "/button-bag/static/js/runtime-main.7ccd21cf.js",
+    "runtime-main.js.map": "/button-bag/static/js/runtime-main.7ccd21cf.js.map",
+    "static/js/2.b10f7047.chunk.js": "/button-bag/static/js/2.b10f7047.chunk.js",
+    "static/js/2.b10f7047.chunk.js.map": "/button-bag/static/js/2.b10f7047.chunk.js.map",
+    "index.html": "/button-bag/index.html",
+    "precache-manifest.8fea3aab23d396384fee5924f3c72532.js": "/button-bag/precache-manifest.8fea3aab23d396384fee5924f3c72532.js",
+    "service-worker.js": "/button-bag/service-worker.js",
+    "static/css/main.f66fa6dd.chunk.css.map": "/button-bag/static/css/main.f66fa6dd.chunk.css.map",
+    "static/js/2.b10f7047.chunk.js.LICENSE.txt": "/button-bag/static/js/2.b10f7047.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/button-bag/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7ccd21cf.js",
+    "static/js/2.b10f7047.chunk.js",
+    "static/css/main.f66fa6dd.chunk.css",
+    "static/js/main.f4fce428.chunk.js"
+  ]
+}
