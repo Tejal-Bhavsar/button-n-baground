@@ -1,25 +1,30 @@
-import React from 'react';
+import React, { useState } from 'react';
 import logo from './logo.svg';
 import './App.css';
 
 function App() {
+  
+  let initialClr = 'purple'
+  const [bg , setBg] = useState(initialClr)
+  const [text , setText] = useState("CLICK ME")
+
+  const bgChange = () => {
+    let clrChanged = "#34495e";
+    setBg(clrChanged);
+    setText("Ouchhh!! 🐈 ")
+  }
+
+  const bgBack = () => {
+    setBg(initialClr)
+    setText("AYYOO !!! 😠")
+  }
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+     <>
+     <div  style={{backgroundColor: bg}}>
+      <button onClick={bgChange} onDoubleClick={bgBack}> {text} </button>
+     </div>
+     </>
   );
 }
 
