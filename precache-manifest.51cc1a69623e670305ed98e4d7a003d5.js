@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d186095a5f4bf5942018fc77e4253b26",
+    "revision": "84214bacf0167d9f616b770d2e917544",
     "url": "/button-bag/index.html"
   },
   {
-    "revision": "6dce961229196862bf49",
+    "revision": "72cc4aa10f3e8f561eb7",
     "url": "/button-bag/static/css/main.f66fa6dd.chunk.css"
   },
   {
@@ -16,15 +16,11 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/button-bag/static/js/2.b10f7047.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "6dce961229196862bf49",
-    "url": "/button-bag/static/js/main.f4fce428.chunk.js"
+    "revision": "72cc4aa10f3e8f561eb7",
+    "url": "/button-bag/static/js/main.ffeb5133.chunk.js"
   },
   {
     "revision": "11620d761ea1eb866f59",
     "url": "/button-bag/static/js/runtime-main.7ccd21cf.js"
-  },
-  {
-    "revision": "5d5d9eefa31e5e13a6610d9fa7a283bb",
-    "url": "/button-bag/static/media/logo.5d5d9eef.svg"
   }
 ]);
